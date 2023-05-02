@@ -10,7 +10,7 @@
 
   ```javascript
   //Required package
-  var pdf = require("pdf-creator-node");
+  var pdf = require("pdf-node");
   var fs = require("fs");
 
   // Read HTML Template
