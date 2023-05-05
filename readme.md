@@ -2,7 +2,7 @@
 
 - Step 1 - install the pdf creator package using the following command
 
-  `$ npm i pdf-creator-node --save`
+  `$ npm i pdf-node --save`
 
   > --save flag adds package name to package.json file.
 
@@ -10,7 +10,7 @@
 
   ```javascript
   //Required package
-  var pdf = require("pdf-creator-node");
+  var pdf = require("pdf-node");
   var fs = require("fs");
 
   // Read HTML Template
